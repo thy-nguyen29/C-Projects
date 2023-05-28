@@ -1,7 +1,7 @@
 /*
 *****************************************************************************
                           Workshop - #4 (P2)
-Full Name  : Ngoc Diem Thy Nguyen
+Full Name  : Thy Nguyen
 Student ID#: 105310221
 Email      : nnguyen90@myseneca.ca
 Section    : NEE
