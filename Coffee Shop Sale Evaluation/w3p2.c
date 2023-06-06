@@ -1,20 +1,4 @@
-/*
-*****************************************************************************
-                          Workshop - #3 (P2)
-Full Name  : Thy Nguyen
-Student ID#: 105310221
-Email      : nnguyen90@myseneca.ca
-Section    : NEE
-
-Authenticity Declaration:
-I declare this submission is the result of my own work and has not been
-shared with any other student or 3rd party content provider. This submitted
-piece of work is entirely of my own creation.
-*****************************************************************************
-*/
-
 #define _CRT_SECURE_NO_WARNINGS
-
 #include <stdio.h>
 
 int main(void)
